@@ -1,10 +1,10 @@
 ## MVC PHP app 
 
 how to run :
-1. clone this repository ```sh git clone https://github.com/Eirfand1/php-mvc-boilerplate.git```
-2. ```sh cd php-mvc-boilerplate```
-4. ```sh composer install```
-5. ```sh npm install```
+1. clone this repository ```git clone https://github.com/Eirfand1/php-mvc-boilerplate.git```
+2. ```hp-mvc-boilerplate```
+4. ```composer install```
+5. ```npm install```
 
 6. run the server
 ```sh
