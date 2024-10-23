@@ -1,5 +1,5 @@
 {
-    "name": "ego/persuratan_dosen",
+    "name": "ego/php-mvc",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
