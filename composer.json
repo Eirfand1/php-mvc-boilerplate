@@ -1,0 +1,15 @@
+{
+    "name": "ego/persuratan_dosen",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eirfand1",
+            "email": "name.fandi07@proton.me"
+        }
+    ],
+    "require": {}
+}
